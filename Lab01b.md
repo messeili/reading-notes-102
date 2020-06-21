@@ -5,7 +5,7 @@ Mohammad is a former Mechanical Engineer who decided to take the high road to fu
 
 
 ## The definition of Mindset  
-I believe in a quotes says that **The hard working beats the talent** the quotes quit explain the definition of mindset, which means that once you become optimistic and assertive about something, giving it an adequate amount of hard working, yet you will end become Professional on it.  
+I believe in a quotes says that **Hard working beats talent** the quotes quit explain the definition of mindset, which means that once you become optimistic and assertive about something, giving it an adequate amount of hard working, yet you will end become Professional on it.  
 
 ![Pic](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/artboard-17-copy-7@3x-600x480.png)
 
