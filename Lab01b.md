@@ -14,7 +14,7 @@ Obstacles | Persists | Loses focus
 Effort | Handles the Pain | Views as fruitless
 Success of others | is inspired by | view as a threat
 
-For more information about this topic please visit [our web site] (https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+For more information about this topic please visit [our web site](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
 
 
