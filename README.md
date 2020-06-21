@@ -2,7 +2,7 @@ Hi there
 #### This is a summary for Markdown features
 You can easily add emojis, and any link will automatically be converted to a clickable link, you also can mention somebody by simply add @ symbol right before the name
 
-You can also create a table by simply add a list of words and but hyphens of the first row then separate between the columns with | symbol like this  
+You can also create a table by simply add a list of words and but hyphens of the first row then separate between the columns with '|'  symbol like this  
 
 first column | second column
 ------------- | --------------
