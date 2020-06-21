@@ -31,6 +31,10 @@ simbly add number 1. before each item like this
 ~~crossed out text~~  
 simply add two tildes before and after the text
 
+### Adding Photos
+Simply add ! then square brackets then add the link for the photo
+![ACAC Pic](https://static.wixstatic.com/media/a27d24_41b346d2375a488885e9f3e608775611~mv2.png/v1/fit/w_960,h_658,al_c,q_80/file.webp)
+
 
 
 
