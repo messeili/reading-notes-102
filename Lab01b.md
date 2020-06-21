@@ -20,6 +20,8 @@ Success of others | is inspired by | view as a threat
 
 For more information about this topic please visit [our web site](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
-you can also follow me on [facebook](https://www.facebook.com) [instagram](https://www.instagram) [youtube](https://www.youtube.com)
+
+
+You can also follow me on [facebook](https://www.facebook.com) [instagram](https://www.instagram) [youtube](https://www.youtube.com)
 
 
