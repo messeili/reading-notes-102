@@ -20,7 +20,7 @@ Obstacles | Persists | Loses focus
 Effort | Handles the Pain | Views as fruitless
 Success of others | is inspired by | view as a threat  
 
-### How to keep myself in a growth minds
+### How to keep myself in a growth mindset
 * try to focus on effort not talent
 * try to speak to positive and open-minded people
 * try to remember my past accomplishments to keep in my mind that I'm capable of succeed
