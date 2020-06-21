@@ -1,15 +1,15 @@
 Hi there 
 #### This is a summary for Markdown features
-You can eaisly add emojis, and any link will automaticlly be converted to a clicable link, you also can mention somebody by simply add @ symbol right before the name
+You can easily add emojis, and any link will automatically be converted to a clickable link, you also can mention somebody by simply add @ symbol right before the name
 
-You can also create a table by smply add a list of woords and but hyphens of the first row then seperate between the columns with | symbol like this
+You can also create a table by simply add a list of words and but hyphens of the first row then separate between the columns with | symbol like this  
 
 first column | second column
 ------------- | --------------
 first cell | second cell
 
 # Headers
-just add # sign befor the sentence, you can notice that # is the h1 heading ## is the h2 heading and so on
+just add # sign before the sentence, you can notice that # is the h1 heading ## is the h2 heading and so on
 
 **Make a text Bold**  
 just add two stars just before and after a word or sentence
@@ -18,13 +18,13 @@ just add two stars just before and after a word or sentence
 simply add on star just before and after a word or sentence
 
 ## Making list
-### unorderd list
-simbly add star before each item like this
+### unordered list
+simply add star before each item like this
 * first item
 * second item
 
 ### ordered list
-simbly add number 1. before each item like this
+simply add number 1. before each item like this
 1. first item
 1. second item
 
