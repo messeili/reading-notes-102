@@ -28,7 +28,7 @@ simbly add number 1. before each item like this
 1. first item
 1. second item
 
-~~crossed out text~~
+~~crossed out text~~  
 simply add two tildes before and after the text
 
 
