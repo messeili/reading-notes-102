@@ -8,7 +8,7 @@ Text editor can be used as software or access online through your web browser, i
 
 ## Examples of Text Editors:
 
-> NoteBad++ (Links to an external site.)
-TextWrangler/BBEdit (Links to an external site.)
-Visual Studio Code (Links to an external site.)
-SublimeText
+> * NoteBad++ (Links to an external site.)
+* TextWrangler/BBEdit (Links to an external site.)
+* Visual Studio Code (Links to an external site.)
+* SublimeText
