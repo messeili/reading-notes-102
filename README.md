@@ -11,4 +11,4 @@ content | link
 --------|-------
 Mark down features | [Markdown](https://messeili.github.io/reading-notes/markdown-features)
 Mindset definition | [Mindset](https://messeili.github.io/reading-notes/Lab01b)
-
+Get Tutorial | [Get](https://messeili.github.io/reading-notes/get)
