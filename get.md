@@ -1,5 +1,7 @@
 # Git Tutorial  
 
+![picc](https://www.fofxacademy.com/wp-content/uploads/2020/01/install-git-for-multiple-users.png)
+
 Git is a DVCS that stores data in a file system made up of snapshots. Each time you save a changed version of your project — called commit — Git creates a snapshot of the file and stores a reference to it. If the file has not changed, Git only stores a reference to the already-stored identical version of it.
 
 ### The first two things you'll want to do are install git and create a free GitHub account
