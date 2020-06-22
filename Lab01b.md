@@ -1,5 +1,3 @@
-# Welcome to Mohammd Yahyia Al-Esseili Webpage
-Mohammad is a former Mechanical Engineer who decided to take the high road to fulfill his ambitious to become a software Engineer, today we gonna talk about **Mindset**.  
 
  ![pic2](https://static.joomlart.com/images/blog/2016/october/facebook-covers/Halloween-Facebook-Cover-13.png)
 
