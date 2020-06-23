@@ -1,6 +1,8 @@
 # What is CSS??
 > 
-We can define the CSS its the way how the content will display, such as background color text color text type and many other things. to understanding how CSS works is to imagine that there is an invisible box around every HTML element.
+We can define the CSS its the way how the content will display, such as background color text color text type and many other things. to understanding how CSS works is to imagine that there is an invisible box around every HTML element.  
+  
+  ![pic](https://www.geeksforgeeks.org/wp-content/uploads/CSS-768x256.png)
 
 ## Linking Style Sheets to HTML
 Styles can be linking to an HTML document using one of three methods:
