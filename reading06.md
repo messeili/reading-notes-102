@@ -1,6 +1,6 @@
 # JavaScript and jQuery
 
-## javascript can be used in berowsers to make websites more interacrive and iser friendly jQuery makes writing Javascript a lot easier   
+## javascript can be used in browsers to make websites more interactive and user friendly while jQuery makes writing Javascript a lot easier   
 ```
 you can acces the content of the page
 Modify the content of the page
@@ -27,7 +27,7 @@ types of operators:
 1. logical operators
 ```
 
-## Functions is ablock of codede designed to perform a particular task
+## Functions is a block of code designed to perform a particular task
 the main advantages of using functions :
 code reuse
 arguments
