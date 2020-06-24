@@ -11,12 +11,16 @@ Here you can find the table of content
   
 content | link
 --------|-------
-Mark down features | [Markdown](https://messeili.github.io/reading-notes/markdown-features)
 Mindset definition | [Mindset](https://messeili.github.io/reading-notes/Lab01b)
-Get Tutorial | [Get](https://messeili.github.io/reading-notes/get)
-Reading04 | [reading04](https://messeili.github.io/reading-notes/reading04)
-Reading05 | [reading05](https://messeili.github.io/reading-notes/reading05)
-Reading06 | [reading06](https://messeili.github.io/reading-notes/reading06)
-Reading06b | [reading06b](https://messeili.github.io/reading-notes/reading06b)
-Reading08 | [reading08](https://messeili.github.io/reading-notes/reading08)
+Reading01 | [Learning Markdown](https://messeili.github.io/reading-notes/markdown-features)
+Reading02 | [Text Editors](https://messeili.github.io/reading-notes/text-editor)
+Reading03 | [Get](https://messeili.github.io/reading-notes/get)
+Reading04 | [Structure web pages with HTML](https://messeili.github.io/reading-notes/reading-html)
+Reading05 | [Design web pages with CSS](https://messeili.github.io/reading-notes/reading05)
+Reading06a | [Dynamic web pages with JavaScript]( https://messeili.github.io/practice-js/)
+Reading06b | [Computer Architecture and Logic](https://messeili.github.io/reading-notes/reading06b)
+Reading07 | [Programming with JavaScript](https://messeili.github.io/reading-notes/reading07)
+Reading08 | [Operators and Loops](https://messeili.github.io/reading-notes/reading08)
+
+
 
