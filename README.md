@@ -17,6 +17,6 @@ Get Tutorial | [Get](https://messeili.github.io/reading-notes/get)
 Reading04 | [reading04](https://messeili.github.io/reading-notes/reading04)
 Reading05 | [reading05](https://messeili.github.io/reading-notes/reading05)
 Reading06 | [reading06](https://messeili.github.io/reading-notes/reading06)
-Reading06b | [reading07](https://messeili.github.io/reading-notes/reading06b)
-Reading08 | [reading04](https://messeili.github.io/reading-notes/reading08)
+Reading06b | [reading06b](https://messeili.github.io/reading-notes/reading06b)
+Reading08 | [reading08](https://messeili.github.io/reading-notes/reading08)
 
