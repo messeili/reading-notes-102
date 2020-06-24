@@ -34,7 +34,7 @@ arguments
 
 ## How to declare a function?
 
-![pic1](https://bl3302files.storage.live.com/y4paR5mrcGe3vLzX3dEhghmnFFyVtDcUvENf0B9rNCDnnxcTo7YHb60Dz-p6ddTtwaG8O5pSL-DOvwca7pKj9uUT-isvphUvqOHSzEarwokMUpUfp58AiqRQNGShspdY2Gu1ew85VQIbSFoIsKoE4wntJagYHB3rGuJEp-rGWBW7OhbT2fS2lM-DemFBZBFhrqpVIs-7RcHzCPK4LFowH1sKPNH45iS0j1PrPhHIla1cAE/Capture.PNG?psid=1&width=1154&height=473)
+![pic1](https://ibb.co/b2ysScD"><img src="https://i.ibb.co/LJqxLVH/Capture.png)
 
 ## How to call a function
 
