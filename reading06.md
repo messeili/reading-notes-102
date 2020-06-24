@@ -17,7 +17,7 @@ code each step
 ```  
 
 
-### Expressions rely of thing called operators
+### Expressions rely on thing called operators
 ```
 types of operators:
 1. Assignment operators
