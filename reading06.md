@@ -20,11 +20,11 @@ code each step
 ### Expressions rely on thing called operators
 ```
 types of operators:
-1* Assignment operators
-1* Arithmetic operators
-1* String operators
-1* comparasion operators
-1* logical operators
+* Assignment operators
+* Arithmetic operators
+* String operators
+* comparasion operators
+* logical operators
 ```
 
 ## Functions is a block of code designed to perform a particular task
