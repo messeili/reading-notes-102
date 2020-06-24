@@ -34,7 +34,7 @@ arguments
 
 ## How to declare a function?
 
-![pic1](https://ibb.co/b2ysScD"><img src="https://i.ibb.co/LJqxLVH/Capture.png)
+![pic1](https://i.ibb.co/LJqxLVH/Capture.png)
 
 ## How to call a function
 
