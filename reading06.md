@@ -38,5 +38,5 @@ arguments
 
 ## How to call a function
 
-![pic2](https://bl3302files.storage.live.com/y4pSMbqGd8mVd_m79TgyHBffJDiAoSF_Q1jn1uAW-PKsXNTaMBzQZL_tbM2CVzqfpCr3TLCWwNDqXpZca4ARs4V5rEUfYqlZ0bJjxc-kkGRrIKJyGTSBXgKg_xgQFztOxeYb7_AMExwWc1dQkmXnF2jN5ZfVpKufAKsoBxa3hBR5O5aelTVEyExwZdqV6DA8Lsg4K02WWq0Ken-aOiGVWsK8l_9xLpVmLmC8HpI3C84gDo/22.PNG?psid=1&width=1061&height=441)
+![pic2](https://i.ibb.co/rkDpP0N/22.png)
 
